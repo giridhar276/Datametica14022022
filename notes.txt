@@ -1,0 +1,81 @@
+** Everything in Python is Object **
+** Every object contains set of methods ***
+
+number
+------
+number can be integer or decimal or octal or hexadecimal.
+
+val = 45
+aval = 56.4
+
+
+string
+------
+string is defined in single or double or triple quotes.
+
+aname = "python programming"
+bname = 'unix shell'
+cname = """scala programming"""
+
+
+list
+----
+list contains set of elements.
+Elements can be numbers or strings or any combination.
+list elements are defined in []
+
+alist = [10,20,30,40]
+blist = [45.43,45.3,78.7]
+clist = [10,"unix","java",56.5]
+
+
+tuple ( immutable , unchangable  , uneditable , readonly )
+------
+tuple contains set of elements.
+Elements can be numbers or strings or any combination.
+tuple elements are defined in ().
+**** Elements INSIDE TUPLE cannot be modified  DIRECTLY *****
+
+atup = ("unix","java",56,56.545)
+
+
+dictionary
+-------------
+In dictionary , elements are defined in key:value pairs
+Indexing is not allowed in dictionary
+In dictionary,
+          key is string or number which is used to uniquely identify the value
+          value can be number or string or list or tuple or dictionary.
+
+syntax:    object = {key:value , key:value ..... }
+example:     book = {"chap1":10 ,"chap2":20 }
+              info= {1:2,3:4,5:6}
+              data = {"chap1":[10,"UK","Rita"] ,"chap2":[20,"US","Mary"] }
+
+
+set
+------
+set is UNORDERED collection of UNIQUE elements of SAME type.
+
+aset = {10,10,10,20,30,40}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set
